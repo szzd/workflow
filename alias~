@@ -1,5 +1,0 @@
-alias c="clear"
-
-#laravel Specific
-alias art="php artisan"
-alias test="./vendor/bin/phpunit"
